@@ -3,6 +3,9 @@ a new dataset for persian text emotion detection
 see more information on this link:<br>
 https://arman-rayan-sharif.github.io/arman-text-emotion/
 
+## Paper link
+https://arxiv.org/abs/2207.11808
+
 
 ## Citation
 If you find *ArmanEmo* useful in your research, please consider to cite the following paper:
