@@ -33,8 +33,16 @@ our dataset contains 7 classes:
       <td style="text-align: left">HAPPY</td>
     </tr>
         <tr>
-      <td style="text-align: left">بوسکتس رو نزن وحشی</td>
-      <td style="text-align: left">ANGRY</td>
+      <td style="text-align: left">تا سه سوت رو دارم غم ندارم</td>
+      <td style="text-align: left">HAPPY</td>
+    </tr>
+   <tr>
+      <td style="text-align: left">امروز میخاست به روز عالی تموم بشه که چقدر راحت خراب شد</td>
+      <td style="text-align: left">SAD</td>
+    </tr>
+   <tr>
+      <td style="text-align: left">این چپ دست ها چرا باید بهشون تبریک گفت مگه چیکار کردن اخه</td>
+      <td style="text-align: left">SURPRISE</td>
     </tr>
   </tbody>
 </table>
